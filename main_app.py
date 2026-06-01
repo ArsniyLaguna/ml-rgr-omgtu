@@ -23,4 +23,4 @@ with col1:
     st.info("Используйте боковое меню слева для перехода к графикам и прогнозам моделей.")
 
 with col2:
-    st.image("https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=300", caption="Разработчик дашборда", use_container_width=True)
+    st.image("my_photo.JPG", caption="Разработчик дашборда", use_container_width=True)
